@@ -1,4 +1,5 @@
-### Hi there 👋
+
+<a href="https://stats.mikeisesele.dev/en/stats/MikeIsesele"><img src="https://stats.mikeisesele.dev/api/github-stats?login=mikeisesele" width="600" /></a>
 
 <!--
 **mikeisesele/mikeisesele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
